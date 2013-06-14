@@ -1,0 +1,16 @@
+{
+  "name": "wolfspider",
+  "scripts": {
+    "start": "app.js"
+  },
+  "version": "0.0.1",
+  "engines": {
+    "node": "0.6.x"
+  },
+  "dependencies": {
+		"express": ">0",
+		"superagent": "*",
+		"JSONStream": "*",
+		"event-stream": "*"
+  }
+}
